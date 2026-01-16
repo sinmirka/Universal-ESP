@@ -1,5 +1,4 @@
--- simple ESP for any games that has teams shit. wont work in games where teams are not in GetService:("Players")
--- its quite simple to understand so u can use it for education or smth idk 
+-- only works in games with "Teams" service
 
 
 local Players = game:GetService("Players")
